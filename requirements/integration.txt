@@ -29,7 +29,7 @@ identify==2.2.13
     # via pre-commit
 nodeenv==1.6.0
     # via pre-commit
-packaging==23.0
+packaging==23.1
     # via
     #   build
     #   pyproject-api
@@ -46,7 +46,7 @@ platformdirs==3.2.0
     #   virtualenv
 pluggy==1.0.0
     # via tox
-pre-commit==3.2.2
+pre-commit==3.3.1
     # via -r integration.in
 pyproject-api==1.5.1
     # via tox
@@ -56,7 +56,7 @@ tomli==1.2.1
     # via pep517
 toposort==1.6
     # via pip-compile-multi
-tox==4.4.12
+tox==4.5.1
     # via -r integration.in
 virtualenv==20.21.0
     # via
